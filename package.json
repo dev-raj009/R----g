@@ -1,0 +1,19 @@
+{
+  "name": "rgapiproxy",
+  "version": "1.0.0",
+  "description": "rgvikramjeet",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "proxy",
+    "vercel",
+    "nodejs"
+  ],
+  "author": "prince",
+  "license": "MIT",
+  "dependencies": {}
+}
